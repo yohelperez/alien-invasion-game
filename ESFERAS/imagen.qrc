@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>descarga.jpg</file>
+        <file>dibujo.png</file>
+        <file>manos.png</file>
+        <file>nave.png</file>
+        <file>alien.png</file>
+        <file>marcador.png</file>
+        <file>invadido.jpg</file>
+        <file>alien-attack.jpg</file>
+        <file>inicio.jpg</file>
+    </qresource>
+</RCC>
